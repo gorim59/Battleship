@@ -1,0 +1,9 @@
+Najpierv uruchomić First.cpp następnie Second.exe
+
+wybór gry za pomocą '1' lub '2'
+
+stawianie statków [v(vertical)/h(horizontal)][1-10][A-J] np v6B
+strzał [1-10][A-J]
+ilość statkó można ustawić w pliku battleships.h
+
+w kółko i krzyżyk wybieramy za pomocą [1-9]
